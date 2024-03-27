@@ -1,0 +1,21 @@
+<resources>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="app_name">Eco Ride HCL</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_in">Log In!</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="student_name">Student Name</string>
+    <string name="id">ID</string>
+    <string name="availability_status">Availability Status</string>
+    <string name="color">Color</string>
+    <string name="location">Location</string>
+    <string name="Super">super\n</string>
+    <string name="employee_id">Employee Id</string>
+    <string name="email">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
