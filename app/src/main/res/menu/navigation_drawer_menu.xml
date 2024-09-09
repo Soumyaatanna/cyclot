@@ -13,17 +13,10 @@
             android:icon="@drawable/baseline_do_not_disturb_24"
             android:title="Damaged Cycles"/>
         <item
-            android:id="@+id/notify"
-            android:icon="@drawable/baseline_notification_add_24"
-            android:title="Notifications"/>
-        <item
-            android:id="@+id/user"
-            android:icon="@drawable/baseline_people_alt_24"
-            android:title="User App"/>
-        <item
-            android:id="@+id/Security"
-            android:icon="@drawable/users"
-            android:title="Security App"/>
+            android:id="@+id/qr_code_scanner"
+            android:icon="@drawable/baseline_qr_code_scanner_24"
+            android:title="QrCode Scanner"/>
+
         <item
             android:id="@+id/log_out"
             android:icon="@drawable/baseline_logout_24"
